@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "locadora-de-livro",
+    "site": "locadora-de-livros",
     "public": "public",
     "ignore": [
       "firebase.json",
