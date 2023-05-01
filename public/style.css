@@ -6,3 +6,13 @@
 #pdr-5{
        padding-right: 5px; 
 }
+#borda{
+    border: 3px solid rgb(8, 2, 78);
+    border-radius: 3px;
+    margin: 2px;
+}
+#borda-r{
+    border-right: 3px solid rgb(8, 2, 78);
+    border-radius: 3px;
+    margin: 2px;
+}
